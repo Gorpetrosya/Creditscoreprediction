@@ -1,0 +1,1252 @@
+2024-03-06T15:08:51.456833+0400 abstract_model.py ERROR First is not trained yet
+2024-03-06T15:08:51.462748+0400 LinearRegression.py INFO Model was trained successfully: status:True
+2024-03-06T15:09:02.004820+0400 abstract_model.py ERROR First Ridge Model is not trained yet
+2024-03-06T15:09:02.016734+0400 RidgeRegression.py INFO Model was trained successfully: status:True
+2024-03-06T15:09:05.184992+0400 abstract_model.py INFO Model saved to saved_models/First Ridge Model.pkl
+2024-03-06T15:09:07.405207+0400 abstract_model.py INFO Model loaded from First Ridge Model.pkl
+2024-03-06T15:09:10.474246+0400 abstract_model.py ERROR First Lasso Model is not trained yet
+2024-03-06T15:09:10.489285+0400 LassoRegression.py INFO Model was trained successfully: status:True
+2024-03-10T22:29:13.916697+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-10T22:29:13.923715+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-10T22:29:13.927179+0400 log_transformation.py INFO Successfully imported 'LogTransformation' file
+2024-03-10T22:29:13.934885+0400 scaling.py INFO Successfully imported 'Scaling' file
+2024-03-10T22:29:13.943644+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-10T22:29:57.839741+0400 check_nans.py INFO CheckNans preprocessing is starting
+2024-03-10T22:29:57.843876+0400 check_nans.py INFO No nans in dataframe
+2024-03-10T22:30:00.542329+0400 check_nans.py INFO CheckNans preprocessing is starting
+2024-03-10T22:30:00.544932+0400 check_nans.py INFO No nans in dataframe
+2024-03-10T22:30:03.038323+0400 scaling.py INFO Scaling preprocessing is starting
+2024-03-10T22:30:03.051006+0400 scaling.py INFO Scaling preprocessing ended
+2024-03-10T22:30:08.961247+0400 minmax_scaler.py INFO MinMaxScaler preprocessing is starting
+2024-03-10T22:30:08.967963+0400 minmax_scaler.py INFO MinMaxScaler preprocessing ended
+2024-03-10T22:30:20.154332+0400 abstract_model.py ERROR Linreg is not trained yet
+2024-03-10T22:30:21.313457+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-10T22:30:32.188525+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-10T22:30:39.229049+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-10T22:30:46.423065+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-10T22:31:00.847466+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-10T22:31:03.620081+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-10T22:31:08.126542+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-10T22:31:10.998746+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-10T22:31:13.513817+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-10T22:31:19.112588+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-10T22:31:23.133499+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-10T22:31:27.028124+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-11T18:39:00.540386+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-11T18:39:00.555394+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-11T18:39:00.560745+0400 log_transformation.py INFO Successfully imported 'LogTransformation' file
+2024-03-11T18:39:00.564162+0400 scaling.py INFO Successfully imported 'Scaling' file
+2024-03-11T18:39:00.566005+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-11T18:42:31.040879+0400 check_nans.py INFO CheckNans preprocessing is starting
+2024-03-11T18:42:31.044880+0400 check_nans.py INFO No nans in dataframe
+2024-03-11T18:42:32.527774+0400 scaling.py INFO Scaling preprocessing is starting
+2024-03-11T18:42:32.540536+0400 scaling.py INFO Scaling preprocessing ended
+2024-03-11T18:42:36.060742+0400 minmax_scaler.py INFO MinMaxScaler preprocessing is starting
+2024-03-11T18:42:36.078968+0400 minmax_scaler.py INFO MinMaxScaler preprocessing ended
+2024-03-11T18:42:46.132403+0400 abstract_model.py ERROR Linreg is not trained yet
+2024-03-11T18:42:47.239796+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-11T18:42:54.816760+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-11T18:43:01.374912+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-11T18:44:15.614261+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-11T18:44:17.862069+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-11T18:44:27.440578+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-11T18:44:30.341527+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-11T18:44:32.802074+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-11T18:44:33.913784+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-11T18:44:38.786641+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-11T18:45:04.696534+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-11T18:45:08.868241+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-11T22:58:01.066571+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-11T22:58:01.067390+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T15:45:45.166012+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T15:45:45.166012+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T15:45:45.180606+0400 log_transformation.py INFO Successfully imported 'LogTransformation' file
+2024-03-14T19:08:19.693201+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T19:08:19.693201+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T19:08:19.710220+0400 log_transformation.py INFO Successfully imported 'LogTransformation' file
+2024-03-14T19:08:19.952561+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T19:20:32.270781+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T19:20:32.274708+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T19:20:32.278647+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T19:20:33.654616+0400 pipeline.py INFO Training the model
+2024-03-14T19:20:33.669631+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:20:33.669631+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:20:33.685952+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:20:33.687268+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:20:33.690856+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:20:33.701664+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:20:33.701664+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:20:33.701664+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:20:33.711621+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:20:33.943281+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 62
+2024-03-14T19:20:33.943281+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:20:33.957795+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:20:33.973444+0400 pipeline.py INFO Scores: {'MAE': 0.03662127489309142, 'MSE': 0.002927755524405333, 'RMSE': 0.05410873796722054, 'R2': 0.7426755318847893, 'MAPE': 0.06561065781104164}
+2024-03-14T19:20:33.973444+0400 pipeline.py INFO Training completed
+2024-03-14T19:20:36.929311+0400 pipeline.py INFO Training the model
+2024-03-14T19:20:36.936821+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:20:36.936821+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:20:36.945779+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:20:36.945779+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:20:36.945779+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:20:36.953288+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:20:36.953288+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:20:36.953288+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:20:36.962397+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:20:37.230131+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 53
+2024-03-14T19:20:37.230131+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:20:37.242142+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:20:37.256314+0400 pipeline.py INFO Scores: {'MAE': 0.04850234194363268, 'MSE': 0.004378767998142528, 'RMSE': 0.06617226003502169, 'R2': 0.6725744140503223, 'MAPE': 0.085622960802783}
+2024-03-14T19:20:37.259097+0400 pipeline.py INFO Training completed
+2024-03-14T19:23:24.269233+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T19:23:24.276533+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T19:23:24.276533+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T19:23:25.003814+0400 pipeline.py INFO Training the model
+2024-03-14T19:23:25.011988+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:23:25.014635+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:23:25.020151+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:23:25.020151+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:23:25.020151+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:23:25.026653+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:23:25.036541+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:23:25.038251+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:23:25.040622+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:23:25.250193+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 54
+2024-03-14T19:23:25.250193+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:23:25.250193+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:23:25.266245+0400 pipeline.py INFO Scores: {'MAE': 0.036104882828689566, 'MSE': 0.0028954185602907525, 'RMSE': 0.05380909365795667, 'R2': 0.800951101433316, 'MAPE': 0.06383167386010935}
+2024-03-14T19:23:25.266245+0400 pipeline.py INFO Training completed
+2024-03-14T19:23:30.736706+0400 pipeline.py INFO Training the model
+2024-03-14T19:23:30.748506+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:23:30.751542+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:23:30.751542+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:23:30.757706+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:23:30.762279+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:23:30.762279+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:23:30.762279+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:23:30.769173+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:23:30.769173+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:23:30.958135+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 55
+2024-03-14T19:23:30.958135+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:23:30.966275+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:23:30.974815+0400 pipeline.py INFO Scores: {'MAE': 0.039027296339438605, 'MSE': 0.0028003073465842332, 'RMSE': 0.05291793029384495, 'R2': 0.764080542378472, 'MAPE': 0.07068021571842004}
+2024-03-14T19:23:30.978151+0400 pipeline.py INFO Training completed
+2024-03-14T19:23:33.771592+0400 pipeline.py INFO Training the model
+2024-03-14T19:23:33.779608+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:23:33.787612+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:23:33.787612+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:23:33.797777+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:23:33.804075+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:23:33.804075+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:23:33.813625+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:23:33.813737+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:23:33.820751+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:23:34.155285+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 58
+2024-03-14T19:23:34.155285+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:23:34.171096+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:23:34.201514+0400 pipeline.py INFO Scores: {'MAE': 0.040356015338879, 'MSE': 0.0029249506170463653, 'RMSE': 0.054082812584465, 'R2': 0.6958071473491457, 'MAPE': 0.0727303427156987}
+2024-03-14T19:23:34.211030+0400 pipeline.py INFO Training completed
+2024-03-14T19:27:45.035702+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T19:27:45.035702+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T19:27:45.035702+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T19:27:46.067728+0400 pipeline.py INFO Training the model
+2024-03-14T19:27:46.067728+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:27:46.067728+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:27:46.077106+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:27:46.077106+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:27:46.084125+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:27:46.084125+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:27:46.084125+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:27:46.091711+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:27:46.096270+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:27:46.330941+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 55
+2024-03-14T19:27:46.340950+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:27:46.352620+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:27:46.366613+0400 pipeline.py INFO Scores: {'MAE': 0.037718909105235156, 'MSE': 0.0027445037329761656, 'RMSE': 0.05238801134778992, 'R2': 0.7707589748949499, 'MAPE': 0.06741777061497248}
+2024-03-14T19:27:46.366613+0400 pipeline.py INFO Training completed
+2024-03-14T19:27:49.610894+0400 pipeline.py INFO Training the model
+2024-03-14T19:27:49.618926+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:27:49.631077+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:27:49.631077+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:27:49.631077+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:27:49.645463+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:27:49.650982+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:27:49.650982+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:27:49.659005+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:27:49.667355+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:27:49.959930+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 67
+2024-03-14T19:27:49.959930+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:27:49.959930+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:27:49.975646+0400 pipeline.py INFO Scores: {'MAE': 0.036781368417441895, 'MSE': 0.002457124944011086, 'RMSE': 0.049569395235478576, 'R2': 0.8042977748189133, 'MAPE': 0.06736746550220804}
+2024-03-14T19:27:49.975646+0400 pipeline.py INFO Training completed
+2024-03-14T19:27:54.229879+0400 pipeline.py INFO Training the model
+2024-03-14T19:27:54.237906+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:27:54.237906+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:27:54.237906+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:27:54.237906+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:27:54.237906+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:27:54.246881+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:27:54.247547+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:27:54.247547+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:27:54.255694+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:27:54.456010+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 55
+2024-03-14T19:27:54.456010+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:27:54.471628+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:27:54.471628+0400 pipeline.py INFO Scores: {'MAE': 0.03817003232408468, 'MSE': 0.0028087930320936025, 'RMSE': 0.05299804743661414, 'R2': 0.7769723463878817, 'MAPE': 0.06879602585016946}
+2024-03-14T19:27:54.471628+0400 pipeline.py INFO Training completed
+2024-03-14T19:27:58.298786+0400 pipeline.py INFO Training the model
+2024-03-14T19:27:58.315762+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:27:58.318297+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:27:58.326623+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:27:58.326623+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:27:58.337056+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:27:58.340923+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:27:58.343310+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:27:58.351672+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:27:58.359311+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:27:58.650231+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 61
+2024-03-14T19:27:58.665878+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:27:58.665878+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:27:58.692390+0400 pipeline.py INFO Scores: {'MAE': 0.03673050905338797, 'MSE': 0.0025005985880533943, 'RMSE': 0.050005985522269175, 'R2': 0.8007488484069892, 'MAPE': 0.06609961312376925}
+2024-03-14T19:27:58.692390+0400 pipeline.py INFO Training completed
+2024-03-14T19:28:05.623337+0400 pipeline.py INFO Training the model
+2024-03-14T19:28:05.625916+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:28:05.633947+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:28:05.633947+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:28:05.642410+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:28:05.651140+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:28:05.651140+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:28:05.659145+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:28:05.660550+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:28:05.660550+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:28:06.000961+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 58
+2024-03-14T19:28:06.000961+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:28:06.016585+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:28:06.029510+0400 pipeline.py INFO Scores: {'MAE': 0.036761176196790694, 'MSE': 0.002505599402624333, 'RMSE': 0.05005596270799647, 'R2': 0.8046027593545422, 'MAPE': 0.0670646540706197}
+2024-03-14T19:28:06.029510+0400 pipeline.py INFO Training completed
+2024-03-14T19:28:09.936326+0400 pipeline.py INFO Training the model
+2024-03-14T19:28:09.946556+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:28:09.946556+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:28:09.952567+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:28:09.955279+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:28:09.956091+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:28:09.961375+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:28:09.971341+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:28:09.975874+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:28:09.980025+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:28:10.223842+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 48
+2024-03-14T19:28:10.223842+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:28:10.223842+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:28:10.223842+0400 pipeline.py INFO Scores: {'MAE': 0.0375952875077973, 'MSE': 0.0026870855165454293, 'RMSE': 0.05183710559575476, 'R2': 0.8011431889183511, 'MAPE': 0.06917266428969661}
+2024-03-14T19:28:10.236539+0400 pipeline.py INFO Training completed
+2024-03-14T19:28:13.387078+0400 pipeline.py INFO Training the model
+2024-03-14T19:28:13.396726+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:28:13.403688+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:28:13.404761+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:28:13.411774+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:28:13.420325+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:28:13.420325+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:28:13.428178+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:28:13.428178+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:28:13.431912+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:28:13.732805+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 54
+2024-03-14T19:28:13.732805+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:28:13.738014+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:28:13.738014+0400 pipeline.py INFO Scores: {'MAE': 0.03821836986637114, 'MSE': 0.002842064975561224, 'RMSE': 0.0533110211453619, 'R2': 0.7803730670203839, 'MAPE': 0.06987941359722913}
+2024-03-14T19:28:13.748584+0400 pipeline.py INFO Training completed
+2024-03-14T19:28:17.511526+0400 pipeline.py INFO Training the model
+2024-03-14T19:28:17.518544+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:28:17.518544+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:28:17.518544+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:28:17.518544+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:28:17.526976+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:28:17.526976+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:28:17.526976+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:28:17.534986+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:28:17.534986+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:28:17.780455+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:28:17.796093+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:28:17.796093+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:28:17.849623+0400 pipeline.py INFO Scores: {'MAE': 0.03796710634895826, 'MSE': 0.002757380969018732, 'RMSE': 0.052510770028811535, 'R2': 0.781386963394082, 'MAPE': 0.06862528190825742}
+2024-03-14T19:28:17.852171+0400 pipeline.py INFO Training completed
+2024-03-14T19:28:21.780094+0400 pipeline.py INFO Training the model
+2024-03-14T19:28:21.786868+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:28:21.796037+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:28:21.800730+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:28:21.800730+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:28:21.815506+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:28:21.815506+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:28:21.825916+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:28:21.825916+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:28:21.831926+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:28:22.124739+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 53
+2024-03-14T19:28:22.124739+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:28:22.124739+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:28:22.145885+0400 pipeline.py INFO Scores: {'MAE': 0.03703891556659093, 'MSE': 0.002536664355839866, 'RMSE': 0.05036530905136854, 'R2': 0.8001788549694255, 'MAPE': 0.06732574391164169}
+2024-03-14T19:28:22.145885+0400 pipeline.py INFO Training completed
+2024-03-14T19:30:02.819821+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T19:30:02.819821+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T19:30:02.835795+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T19:30:03.604244+0400 pipeline.py INFO Training the model
+2024-03-14T19:30:03.612550+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:30:03.612550+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:30:03.620559+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:30:03.620559+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:30:03.623987+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:30:03.623987+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:30:03.633311+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:30:03.635312+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:30:03.636836+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:30:03.833680+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:30:03.833680+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:30:03.849300+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:30:03.870190+0400 pipeline.py INFO Scores: {'MAE': 0.038484033618065835, 'MSE': 0.0028601972101351676, 'RMSE': 0.05348081160692279, 'R2': 0.7888526181360173, 'MAPE': 0.07150883348285163}
+2024-03-14T19:30:03.872456+0400 pipeline.py INFO Training completed
+2024-03-14T19:31:36.715746+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T19:31:36.715746+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T19:31:36.715746+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T19:31:38.422221+0400 pipeline.py INFO Training the model
+2024-03-14T19:31:38.515955+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:31:38.521453+0400 pipeline.py INFO Scores: {'MAE': 19.09069704033254, 'MSE': 725.3005945543383, 'RMSE': 26.931405357952233, 'R2': 0.8304185059109941, 'MAPE': 0.03372921812278395}
+2024-03-14T19:31:38.532755+0400 pipeline.py INFO Training completed
+2024-03-14T19:31:44.274399+0400 pipeline.py INFO Training the model
+2024-03-14T19:31:44.298312+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:31:44.306325+0400 pipeline.py INFO Scores: {'MAE': 19.09069704033254, 'MSE': 725.3005945543383, 'RMSE': 26.931405357952233, 'R2': 0.8304185059109941, 'MAPE': 0.03372921812278395}
+2024-03-14T19:31:44.307333+0400 pipeline.py INFO Training completed
+2024-03-14T19:31:48.177488+0400 pipeline.py INFO Training the model
+2024-03-14T19:31:48.187527+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:31:48.209965+0400 pipeline.py INFO Scores: {'MAE': 19.09069704033254, 'MSE': 725.3005945543383, 'RMSE': 26.931405357952233, 'R2': 0.8304185059109941, 'MAPE': 0.03372921812278395}
+2024-03-14T19:31:48.209965+0400 pipeline.py INFO Training completed
+2024-03-14T19:31:52.604412+0400 pipeline.py INFO Training the model
+2024-03-14T19:31:52.638457+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:31:52.646475+0400 pipeline.py INFO Scores: {'MAE': 19.09069704033254, 'MSE': 725.3005945543383, 'RMSE': 26.931405357952233, 'R2': 0.8304185059109941, 'MAPE': 0.03372921812278395}
+2024-03-14T19:31:52.646475+0400 pipeline.py INFO Training completed
+2024-03-14T19:31:53.852612+0400 pipeline.py INFO Training the model
+2024-03-14T19:31:53.862832+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:31:53.871457+0400 pipeline.py INFO Scores: {'MAE': 19.09069704033254, 'MSE': 725.3005945543383, 'RMSE': 26.931405357952233, 'R2': 0.8304185059109941, 'MAPE': 0.03372921812278395}
+2024-03-14T19:31:53.871457+0400 pipeline.py INFO Training completed
+2024-03-14T19:31:54.662406+0400 pipeline.py INFO Training the model
+2024-03-14T19:31:54.688509+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:31:54.697544+0400 pipeline.py INFO Scores: {'MAE': 19.09069704033254, 'MSE': 725.3005945543383, 'RMSE': 26.931405357952233, 'R2': 0.8304185059109941, 'MAPE': 0.03372921812278395}
+2024-03-14T19:31:54.697544+0400 pipeline.py INFO Training completed
+2024-03-14T19:31:55.359218+0400 pipeline.py INFO Training the model
+2024-03-14T19:31:55.392924+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:31:55.403733+0400 pipeline.py INFO Scores: {'MAE': 19.09069704033254, 'MSE': 725.3005945543383, 'RMSE': 26.931405357952233, 'R2': 0.8304185059109941, 'MAPE': 0.03372921812278395}
+2024-03-14T19:31:55.403733+0400 pipeline.py INFO Training completed
+2024-03-14T19:31:56.039738+0400 pipeline.py INFO Training the model
+2024-03-14T19:31:56.089470+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:31:56.096900+0400 pipeline.py INFO Scores: {'MAE': 19.09069704033254, 'MSE': 725.3005945543383, 'RMSE': 26.931405357952233, 'R2': 0.8304185059109941, 'MAPE': 0.03372921812278395}
+2024-03-14T19:31:56.105686+0400 pipeline.py INFO Training completed
+2024-03-14T19:31:56.708415+0400 pipeline.py INFO Training the model
+2024-03-14T19:31:56.733270+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:31:56.756271+0400 pipeline.py INFO Scores: {'MAE': 19.09069704033254, 'MSE': 725.3005945543383, 'RMSE': 26.931405357952233, 'R2': 0.8304185059109941, 'MAPE': 0.03372921812278395}
+2024-03-14T19:31:56.756271+0400 pipeline.py INFO Training completed
+2024-03-14T19:31:57.475201+0400 pipeline.py INFO Training the model
+2024-03-14T19:31:57.506894+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:31:57.523702+0400 pipeline.py INFO Scores: {'MAE': 19.09069704033254, 'MSE': 725.3005945543383, 'RMSE': 26.931405357952233, 'R2': 0.8304185059109941, 'MAPE': 0.03372921812278395}
+2024-03-14T19:31:57.528721+0400 pipeline.py INFO Training completed
+2024-03-14T19:31:58.191766+0400 pipeline.py INFO Training the model
+2024-03-14T19:31:58.223168+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:31:58.234535+0400 pipeline.py INFO Scores: {'MAE': 19.09069704033254, 'MSE': 725.3005945543383, 'RMSE': 26.931405357952233, 'R2': 0.8304185059109941, 'MAPE': 0.03372921812278395}
+2024-03-14T19:31:58.241372+0400 pipeline.py INFO Training completed
+2024-03-14T19:33:14.669848+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T19:33:14.669848+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T19:33:14.669848+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T19:33:15.498895+0400 pipeline.py INFO Training the model
+2024-03-14T19:33:15.503831+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:33:15.503831+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:33:15.513501+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:33:15.513771+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:15.519590+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:15.527026+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:15.529389+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:15.529389+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:33:15.536073+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:33:15.926250+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:33:15.926250+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:33:15.948483+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:33:15.959664+0400 pipeline.py INFO Scores: {'MAE': 0.038248647432494697, 'MSE': 0.0032263199750418633, 'RMSE': 0.05680070400128737, 'R2': 0.7455093683097782, 'MAPE': 0.06937614145351194}
+2024-03-14T19:33:15.963827+0400 pipeline.py INFO Training completed
+2024-03-14T19:33:22.722215+0400 pipeline.py INFO Training the model
+2024-03-14T19:33:22.731257+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:33:22.731257+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:33:22.739439+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:33:22.739439+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:22.747445+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:22.755914+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:22.763472+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:22.763472+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:33:22.772988+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:33:23.006903+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:33:23.006903+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:33:23.022466+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:33:23.033474+0400 pipeline.py INFO Scores: {'MAE': 0.038248647432494697, 'MSE': 0.0032263199750418633, 'RMSE': 0.05680070400128737, 'R2': 0.7455093683097782, 'MAPE': 0.06937614145351194}
+2024-03-14T19:33:23.037995+0400 pipeline.py INFO Training completed
+2024-03-14T19:33:24.097940+0400 pipeline.py INFO Training the model
+2024-03-14T19:33:24.106714+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:33:24.114235+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:33:24.114235+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:33:24.123754+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:24.143596+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:24.143596+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:24.156168+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:24.156168+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:33:24.163238+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:33:24.390449+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:33:24.390449+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:33:24.403145+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:33:24.410488+0400 pipeline.py INFO Scores: {'MAE': 0.038248647432494697, 'MSE': 0.0032263199750418633, 'RMSE': 0.05680070400128737, 'R2': 0.7455093683097782, 'MAPE': 0.06937614145351194}
+2024-03-14T19:33:24.410488+0400 pipeline.py INFO Training completed
+2024-03-14T19:33:25.318204+0400 pipeline.py INFO Training the model
+2024-03-14T19:33:25.327103+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:33:25.327103+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:33:25.333118+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:33:25.335682+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:25.340249+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:25.342059+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:25.347161+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:25.349678+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:33:25.349678+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:33:25.571686+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:33:25.573626+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:33:25.579719+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:33:25.579719+0400 pipeline.py INFO Scores: {'MAE': 0.038248647432494697, 'MSE': 0.0032263199750418633, 'RMSE': 0.05680070400128737, 'R2': 0.7455093683097782, 'MAPE': 0.06937614145351194}
+2024-03-14T19:33:25.579719+0400 pipeline.py INFO Training completed
+2024-03-14T19:33:26.565102+0400 pipeline.py INFO Training the model
+2024-03-14T19:33:26.582060+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:33:26.582060+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:33:26.582060+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:33:26.582060+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:26.590470+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:26.590470+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:26.606979+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:26.606979+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:33:26.615416+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:33:26.940736+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:33:26.940736+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:33:26.940736+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:33:26.947789+0400 pipeline.py INFO Scores: {'MAE': 0.038248647432494697, 'MSE': 0.0032263199750418633, 'RMSE': 0.05680070400128737, 'R2': 0.7455093683097782, 'MAPE': 0.06937614145351194}
+2024-03-14T19:33:26.947789+0400 pipeline.py INFO Training completed
+2024-03-14T19:33:55.610474+0400 pipeline.py INFO Training the model
+2024-03-14T19:33:55.618725+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:33:55.626749+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:33:55.626749+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:33:55.635145+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:55.635145+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:55.643195+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:55.651690+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:55.651690+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:33:55.660593+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:33:55.833869+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:33:55.835421+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:33:55.835421+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:33:55.835421+0400 pipeline.py INFO Scores: {'MAE': 0.038248647432494697, 'MSE': 0.0032263199750418633, 'RMSE': 0.05680070400128737, 'R2': 0.7455093683097782, 'MAPE': 0.06937614145351194}
+2024-03-14T19:33:55.835421+0400 pipeline.py INFO Training completed
+2024-03-14T19:33:55.835421+0400 pipeline.py INFO Training the model
+2024-03-14T19:33:55.851565+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:33:55.851565+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:33:55.854331+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:33:55.854331+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:55.854331+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:55.865681+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:55.870470+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:55.873826+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:33:55.878369+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:33:56.095080+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:33:56.095080+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:33:56.243474+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:33:56.260190+0400 pipeline.py INFO Scores: {'MAE': 0.043396741232136334, 'MSE': 0.004050907438437506, 'RMSE': 0.06364673941717286, 'R2': 0.6804662894872345, 'MAPE': 0.07918020265953901}
+2024-03-14T19:33:56.260190+0400 pipeline.py INFO Training completed
+2024-03-14T19:33:56.260190+0400 pipeline.py INFO Training the model
+2024-03-14T19:33:56.285143+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:33:56.301980+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:33:56.301980+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:33:56.301980+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:56.312439+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:56.318387+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:33:56.322426+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:33:56.326437+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:33:56.341379+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:33:56.607405+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:33:56.607405+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:33:56.620100+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:33:56.620100+0400 pipeline.py INFO Scores: {'MAE': 0.03751160197234, 'MSE': 0.0031734245903272907, 'RMSE': 0.056333157113082975, 'R2': 0.7496817318613302, 'MAPE': 0.06826219346717667}
+2024-03-14T19:33:56.635139+0400 pipeline.py INFO Training completed
+2024-03-14T19:34:03.197555+0400 pipeline.py INFO Training the model
+2024-03-14T19:34:03.205890+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:34:03.205890+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:34:03.213930+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:34:03.213930+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:34:03.221470+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:34:03.221470+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:34:03.237687+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:34:03.237687+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:34:03.253500+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:34:03.597027+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:34:03.597027+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:34:03.609796+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:34:03.611817+0400 pipeline.py INFO Scores: {'MAE': 0.038248647432494697, 'MSE': 0.0032263199750418633, 'RMSE': 0.05680070400128737, 'R2': 0.7455093683097782, 'MAPE': 0.06937614145351194}
+2024-03-14T19:34:03.621779+0400 pipeline.py INFO Training completed
+2024-03-14T19:34:03.626170+0400 pipeline.py INFO Training the model
+2024-03-14T19:34:03.632726+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:34:03.639009+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:34:03.648327+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:34:03.650681+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:34:03.654658+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:34:03.665422+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:34:03.672435+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:34:03.672435+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:34:03.685965+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:34:04.003908+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:34:04.011929+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:34:04.272612+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:34:04.288622+0400 pipeline.py INFO Scores: {'MAE': 0.043396741232136334, 'MSE': 0.004050907438437506, 'RMSE': 0.06364673941717286, 'R2': 0.6804662894872345, 'MAPE': 0.07918020265953901}
+2024-03-14T19:34:04.288622+0400 pipeline.py INFO Training completed
+2024-03-14T19:34:04.288622+0400 pipeline.py INFO Training the model
+2024-03-14T19:34:04.295715+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:34:04.304790+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:34:04.304790+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:34:04.311994+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:34:04.321422+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:34:04.321422+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:34:04.328931+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:34:04.328931+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:34:04.337151+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:34:04.652211+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:34:04.652211+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:34:04.667858+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:34:04.677086+0400 pipeline.py INFO Scores: {'MAE': 0.03751160197234, 'MSE': 0.0031734245903272907, 'RMSE': 0.056333157113082975, 'R2': 0.7496817318613302, 'MAPE': 0.06826219346717667}
+2024-03-14T19:34:04.677086+0400 pipeline.py INFO Training completed
+2024-03-14T19:41:59.738480+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T19:41:59.742572+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T19:41:59.743186+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T19:42:02.739072+0400 pipeline.py INFO Training the model
+2024-03-14T19:42:02.750764+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:42:02.754659+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:42:02.761740+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:42:02.769770+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:42:02.778224+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:42:02.778224+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:42:02.786509+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:42:03.023899+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:42:03.023899+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:42:03.023899+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:42:03.038085+0400 pipeline.py INFO Scores: {'MAE': 0.038248647432494697, 'MSE': 0.0032263199750418633, 'RMSE': 0.05680070400128737, 'R2': 0.7455093683097782, 'MAPE': 0.06937614145351194}
+2024-03-14T19:42:03.044603+0400 pipeline.py INFO Training completed
+2024-03-14T19:42:03.047615+0400 pipeline.py INFO Training the model
+2024-03-14T19:42:03.065912+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:42:03.071414+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:42:03.079443+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:42:03.091222+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:42:03.099175+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:42:03.099175+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:42:03.103190+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:42:03.309883+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:42:03.309883+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:42:03.456005+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:42:03.462516+0400 pipeline.py INFO Scores: {'MAE': 0.043396741232136334, 'MSE': 0.004050907438437506, 'RMSE': 0.06364673941717286, 'R2': 0.6804662894872345, 'MAPE': 0.07918020265953901}
+2024-03-14T19:42:03.462516+0400 pipeline.py INFO Training completed
+2024-03-14T19:42:03.462516+0400 pipeline.py INFO Training the model
+2024-03-14T19:42:03.471501+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:42:03.471501+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:42:03.479517+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:42:03.482765+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:42:03.482765+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:42:03.482765+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:42:03.489349+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:42:03.690816+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:42:03.690816+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:42:03.693992+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:42:03.703021+0400 pipeline.py INFO Scores: {'MAE': 0.03751160197234, 'MSE': 0.0031734245903272907, 'RMSE': 0.056333157113082975, 'R2': 0.7496817318613302, 'MAPE': 0.06826219346717667}
+2024-03-14T19:42:03.703021+0400 pipeline.py INFO Training completed
+2024-03-14T19:42:39.395375+0400 pipeline.py INFO Training the model
+2024-03-14T19:42:39.404082+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:42:39.404082+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:42:39.404082+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:42:39.420056+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:42:39.433336+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:42:39.434683+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:42:39.437861+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:42:39.723999+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:42:39.723999+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:42:39.723999+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:42:39.735022+0400 pipeline.py INFO Scores: {'MAE': 0.038248647432494697, 'MSE': 0.0032263199750418633, 'RMSE': 0.05680070400128737, 'R2': 0.7455093683097782, 'MAPE': 0.06937614145351194}
+2024-03-14T19:42:39.735022+0400 pipeline.py INFO Training completed
+2024-03-14T19:42:39.735022+0400 pipeline.py INFO Training the model
+2024-03-14T19:42:39.749591+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:42:39.759131+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:42:39.761824+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:42:39.762121+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:42:39.762121+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:42:39.768781+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:42:39.775160+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:42:39.940187+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:42:39.940187+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:42:40.089624+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:42:40.107146+0400 pipeline.py INFO Scores: {'MAE': 0.043396741232136334, 'MSE': 0.004050907438437506, 'RMSE': 0.06364673941717286, 'R2': 0.6804662894872345, 'MAPE': 0.07918020265953901}
+2024-03-14T19:42:40.107146+0400 pipeline.py INFO Training completed
+2024-03-14T19:42:40.107146+0400 pipeline.py INFO Training the model
+2024-03-14T19:42:40.107146+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:42:40.116695+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:42:40.120405+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:42:40.127938+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:42:40.127938+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:42:40.127938+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:42:40.133729+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:42:40.334871+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:42:40.339379+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:42:40.342754+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:42:40.342754+0400 pipeline.py INFO Scores: {'MAE': 0.03751160197234, 'MSE': 0.0031734245903272907, 'RMSE': 0.056333157113082975, 'R2': 0.7496817318613302, 'MAPE': 0.06826219346717667}
+2024-03-14T19:42:40.342754+0400 pipeline.py INFO Training completed
+2024-03-14T19:46:32.782287+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T19:46:32.782287+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T19:46:32.782287+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T19:46:33.487179+0400 pipeline.py INFO Training the model
+2024-03-14T19:46:33.495655+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:46:33.495655+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:46:33.495655+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:46:33.495655+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:46:33.495655+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:46:33.503664+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:46:33.514175+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:46:33.775174+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:46:33.779640+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:46:33.781444+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:46:33.809045+0400 pipeline.py INFO Scores: {'MAE': 0.038248647432494697, 'MSE': 0.0032263199750418633, 'RMSE': 0.05680070400128737, 'R2': 0.7455093683097782, 'MAPE': 0.06937614145351194}
+2024-03-14T19:46:33.809045+0400 pipeline.py INFO Training completed
+2024-03-14T19:46:33.816772+0400 pipeline.py INFO Training the model
+2024-03-14T19:46:33.825145+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:46:33.857383+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:46:33.863019+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:46:33.863019+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:46:33.863019+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:46:33.873026+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:46:33.875079+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:46:34.125207+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:46:34.125207+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:46:34.422150+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:46:34.430826+0400 pipeline.py INFO Scores: {'MAE': 0.043396741232136334, 'MSE': 0.004050907438437506, 'RMSE': 0.06364673941717286, 'R2': 0.6804662894872345, 'MAPE': 0.07918020265953901}
+2024-03-14T19:46:34.441244+0400 pipeline.py INFO Training completed
+2024-03-14T19:46:34.445278+0400 pipeline.py INFO Training the model
+2024-03-14T19:46:34.447411+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:46:34.452660+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:46:34.455822+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:46:34.461592+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:46:34.466116+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:46:34.467980+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:46:34.469017+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:46:34.780326+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 59
+2024-03-14T19:46:34.791336+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:46:34.794662+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:46:34.799680+0400 pipeline.py INFO Scores: {'MAE': 0.03751160197234, 'MSE': 0.0031734245903272907, 'RMSE': 0.056333157113082975, 'R2': 0.7496817318613302, 'MAPE': 0.06826219346717667}
+2024-03-14T19:46:34.799680+0400 pipeline.py INFO Training completed
+2024-03-14T19:56:57.764130+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T19:56:57.768972+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T19:56:57.768972+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T19:56:59.931719+0400 pipeline.py INFO Training the model
+2024-03-14T19:56:59.949200+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:56:59.955220+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:56:59.963250+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:56:59.987565+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:56:59.998355+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:56:59.999789+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:57:00.003800+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:57:00.237227+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:57:00.237227+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:57:00.264912+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:57:00.321021+0400 pipeline.py INFO Scores: {'MAE': 0.03924798834717477, 'MSE': 0.0029851753792309375, 'RMSE': 0.05463675849856887, 'R2': 0.8031598642555033, 'MAPE': 0.07720953239720761}
+2024-03-14T19:57:00.321021+0400 pipeline.py INFO Training completed
+2024-03-14T19:57:00.321021+0400 pipeline.py INFO Training the model
+2024-03-14T19:57:00.332807+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:57:00.334175+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:57:00.334175+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:57:00.341998+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:57:00.369518+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:57:00.374417+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:57:00.381580+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:57:00.710041+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:57:00.715069+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:57:01.065663+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:57:01.096613+0400 pipeline.py INFO Scores: {'MAE': 0.049229593087814376, 'MSE': 0.004615817119956863, 'RMSE': 0.06793980512156966, 'R2': 0.6956366199502305, 'MAPE': 0.10765412750021762}
+2024-03-14T19:57:01.105668+0400 pipeline.py INFO Training completed
+2024-03-14T19:57:01.108727+0400 pipeline.py INFO Training the model
+2024-03-14T19:57:01.112764+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:57:01.115381+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:57:01.116963+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:57:01.122692+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:57:01.122692+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:57:01.129187+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:57:01.129187+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:57:01.458291+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:57:01.458291+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:57:01.466297+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:57:01.474309+0400 pipeline.py INFO Scores: {'MAE': 0.039416868802874844, 'MSE': 0.0029931539634097362, 'RMSE': 0.05470972457808334, 'R2': 0.8026337626389182, 'MAPE': 0.08047235684379304}
+2024-03-14T19:57:01.474309+0400 pipeline.py INFO Training completed
+2024-03-14T19:57:30.105597+0400 pipeline.py INFO Training the model
+2024-03-14T19:57:30.111314+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:57:30.111314+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:57:30.116826+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:57:30.119160+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:57:30.124662+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:57:30.128023+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:57:30.128023+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:57:30.520342+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:57:30.529905+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:57:30.529905+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:57:30.529905+0400 pipeline.py INFO Scores: {'MAE': 0.03924798834717477, 'MSE': 0.0029851753792309375, 'RMSE': 0.05463675849856887, 'R2': 0.8031598642555033, 'MAPE': 0.07720953239720761}
+2024-03-14T19:57:30.529905+0400 pipeline.py INFO Training completed
+2024-03-14T19:57:30.543553+0400 pipeline.py INFO Training the model
+2024-03-14T19:57:30.553791+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:57:30.553791+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:57:30.553791+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:57:30.553791+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:57:30.560396+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:57:30.562765+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:57:30.567798+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:57:30.847240+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:57:30.855753+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:57:31.211000+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:57:31.222018+0400 pipeline.py INFO Scores: {'MAE': 0.049229593087814376, 'MSE': 0.004615817119956863, 'RMSE': 0.06793980512156966, 'R2': 0.6956366199502305, 'MAPE': 0.10765412750021762}
+2024-03-14T19:57:31.222018+0400 pipeline.py INFO Training completed
+2024-03-14T19:57:31.230247+0400 pipeline.py INFO Training the model
+2024-03-14T19:57:31.238283+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:57:31.242013+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:57:31.246664+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:57:31.256072+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:57:31.260320+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:57:31.263923+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:57:31.268321+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:57:31.633014+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:57:31.633014+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:57:31.642561+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:57:31.643902+0400 pipeline.py INFO Scores: {'MAE': 0.039416868802874844, 'MSE': 0.0029931539634097362, 'RMSE': 0.05470972457808334, 'R2': 0.8026337626389182, 'MAPE': 0.08047235684379304}
+2024-03-14T19:57:31.643902+0400 pipeline.py INFO Training completed
+2024-03-14T19:57:46.432939+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T19:57:46.436994+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T19:57:46.445044+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T19:57:47.516716+0400 pipeline.py INFO Training the model
+2024-03-14T19:57:47.525604+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:57:47.525604+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:57:47.533363+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:57:47.534234+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:57:47.539441+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:57:47.542310+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:57:47.544587+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:57:47.868180+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:57:47.878664+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:57:47.890523+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:57:47.896498+0400 pipeline.py INFO Scores: {'MAE': 0.03924798834717477, 'MSE': 0.0029851753792309375, 'RMSE': 0.05463675849856887, 'R2': 0.8031598642555033, 'MAPE': 0.07720953239720761}
+2024-03-14T19:57:47.900489+0400 pipeline.py INFO Training completed
+2024-03-14T19:57:47.900489+0400 pipeline.py INFO Training the model
+2024-03-14T19:57:47.906858+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:57:47.910930+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:57:47.910930+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:57:47.910930+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:57:47.916464+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:57:47.922911+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:57:47.926160+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:57:48.067924+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:57:48.067924+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:57:48.267616+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:57:48.280655+0400 pipeline.py INFO Scores: {'MAE': 0.049229593087814376, 'MSE': 0.004615817119956863, 'RMSE': 0.06793980512156966, 'R2': 0.6956366199502305, 'MAPE': 0.10765412750021762}
+2024-03-14T19:57:48.283338+0400 pipeline.py INFO Training completed
+2024-03-14T19:57:48.284892+0400 pipeline.py INFO Training the model
+2024-03-14T19:57:48.293036+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:57:48.293036+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:57:48.293036+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:57:48.301192+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:57:48.301192+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:57:48.301192+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:57:48.308690+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:57:48.501350+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:57:48.512857+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:57:48.520915+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:57:48.528014+0400 pipeline.py INFO Scores: {'MAE': 0.039416868802874844, 'MSE': 0.0029931539634097362, 'RMSE': 0.05470972457808334, 'R2': 0.8026337626389182, 'MAPE': 0.08047235684379304}
+2024-03-14T19:57:48.529022+0400 pipeline.py INFO Training completed
+2024-03-14T19:57:56.611560+0400 pipeline.py INFO Training the model
+2024-03-14T19:57:56.624804+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:57:56.626087+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:57:56.626087+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:57:56.626087+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:57:56.636468+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:57:56.644472+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:57:56.644472+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:57:56.981427+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:57:56.981427+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:57:56.994478+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:57:57.024602+0400 pipeline.py INFO Scores: {'MAE': 0.03924798834717477, 'MSE': 0.0029851753792309375, 'RMSE': 0.05463675849856887, 'R2': 0.8031598642555033, 'MAPE': 0.07720953239720761}
+2024-03-14T19:57:57.026630+0400 pipeline.py INFO Training completed
+2024-03-14T19:57:57.031755+0400 pipeline.py INFO Training the model
+2024-03-14T19:57:57.044739+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:57:57.044739+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:57:57.056769+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:57:57.056769+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:57:57.056769+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:57:57.056769+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:57:57.070346+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:57:57.316382+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:57:57.320436+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:57:57.649250+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:57:57.670193+0400 pipeline.py INFO Scores: {'MAE': 0.049229593087814376, 'MSE': 0.004615817119956863, 'RMSE': 0.06793980512156966, 'R2': 0.6956366199502305, 'MAPE': 0.10765412750021762}
+2024-03-14T19:57:57.671095+0400 pipeline.py INFO Training completed
+2024-03-14T19:57:57.671095+0400 pipeline.py INFO Training the model
+2024-03-14T19:57:57.681106+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:57:57.686881+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:57:57.689394+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:57:57.689394+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:57:57.689394+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:57:57.705261+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:57:57.705261+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:57:57.988900+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:57:58.000410+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:57:58.005807+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:57:58.016316+0400 pipeline.py INFO Scores: {'MAE': 0.039416868802874844, 'MSE': 0.0029931539634097362, 'RMSE': 0.05470972457808334, 'R2': 0.8026337626389182, 'MAPE': 0.08047235684379304}
+2024-03-14T19:57:58.016316+0400 pipeline.py INFO Training completed
+2024-03-14T19:58:03.276253+0400 pipeline.py INFO Training the model
+2024-03-14T19:58:03.285923+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:58:03.289102+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:58:03.292647+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:58:03.292647+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:58:03.300664+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:58:03.306100+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:58:03.306100+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:58:03.563214+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:58:03.563214+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:58:03.571733+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:58:03.571733+0400 pipeline.py INFO Scores: {'MAE': 0.03924798834717477, 'MSE': 0.0029851753792309375, 'RMSE': 0.05463675849856887, 'R2': 0.8031598642555033, 'MAPE': 0.07720953239720761}
+2024-03-14T19:58:03.571733+0400 pipeline.py INFO Training completed
+2024-03-14T19:58:03.571733+0400 pipeline.py INFO Training the model
+2024-03-14T19:58:03.593985+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:58:03.597227+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:58:03.597227+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:58:03.600577+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:58:03.600577+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:58:03.605781+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:58:03.612505+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:58:03.818232+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:58:03.823096+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:58:04.056342+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:58:04.061399+0400 pipeline.py INFO Scores: {'MAE': 0.049229593087814376, 'MSE': 0.004615817119956863, 'RMSE': 0.06793980512156966, 'R2': 0.6956366199502305, 'MAPE': 0.10765412750021762}
+2024-03-14T19:58:04.061399+0400 pipeline.py INFO Training completed
+2024-03-14T19:58:04.061399+0400 pipeline.py INFO Training the model
+2024-03-14T19:58:04.082149+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:58:04.082149+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:58:04.087475+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:58:04.089497+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:58:04.101733+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:58:04.102252+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:58:04.106173+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:58:04.422969+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-14T19:58:04.422969+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:58:04.435158+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:58:04.439439+0400 pipeline.py INFO Scores: {'MAE': 0.039416868802874844, 'MSE': 0.0029931539634097362, 'RMSE': 0.05470972457808334, 'R2': 0.8026337626389182, 'MAPE': 0.08047235684379304}
+2024-03-14T19:58:04.447464+0400 pipeline.py INFO Training completed
+2024-03-14T19:58:39.377446+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T19:58:39.379408+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T19:58:39.385049+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T19:58:40.885562+0400 pipeline.py INFO Training the model
+2024-03-14T19:58:40.903710+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:58:40.909777+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:58:40.916317+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:58:40.921044+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:58:40.926060+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:58:40.926060+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:58:40.937068+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:58:41.171690+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 42
+2024-03-14T19:58:41.188589+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:58:41.188589+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:58:41.188589+0400 pipeline.py INFO Scores: {'MAE': 0.040304998379819885, 'MSE': 0.0028268661592536193, 'RMSE': 0.05316828151495607, 'R2': 0.8084889547501809, 'MAPE': 0.07855124737668656}
+2024-03-14T19:58:41.202097+0400 pipeline.py INFO Training completed
+2024-03-14T19:58:41.203547+0400 pipeline.py INFO Training the model
+2024-03-14T19:58:41.219366+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:58:41.223557+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:58:41.223557+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:58:41.232430+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:58:41.236947+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:58:41.241934+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:58:41.242948+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:58:41.470311+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 42
+2024-03-14T19:58:41.470311+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:58:41.697909+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:58:41.711963+0400 pipeline.py INFO Scores: {'MAE': 0.047999409422198804, 'MSE': 0.004379725373174318, 'RMSE': 0.06617949360016528, 'R2': 0.7032877621821232, 'MAPE': 0.10570821414922348}
+2024-03-14T19:58:41.716079+0400 pipeline.py INFO Training completed
+2024-03-14T19:58:41.720826+0400 pipeline.py INFO Training the model
+2024-03-14T19:58:41.728849+0400 pipeline.py INFO Data Preprocessing
+2024-03-14T19:58:41.728849+0400 check_nans.py INFO CheckNans is starting
+2024-03-14T19:58:41.736857+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-14T19:58:41.744846+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T19:58:41.744846+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T19:58:41.753746+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T19:58:41.764284+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T19:58:42.052544+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 42
+2024-03-14T19:58:42.054498+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-14T19:58:42.067530+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-14T19:58:42.083284+0400 pipeline.py INFO Scores: {'MAE': 0.040145350920921766, 'MSE': 0.0027785333399044615, 'RMSE': 0.052711795073820636, 'R2': 0.8117633470390155, 'MAPE': 0.07914045666123537}
+2024-03-14T19:58:42.083284+0400 pipeline.py INFO Training completed
+2024-03-14T20:26:36.228605+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T20:26:36.228605+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T20:26:36.242515+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T20:29:57.360637+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T20:29:57.360637+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T20:29:57.360637+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T20:41:49.095386+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T20:41:49.095386+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T20:41:49.095386+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T20:43:22.696889+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T20:43:22.696889+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T20:43:22.712514+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T20:44:53.742685+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T20:44:53.742685+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T20:44:53.749167+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T20:48:08.265512+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T20:48:08.265512+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-14T20:48:08.265512+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T21:00:38.882973+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-14T21:00:38.889509+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-14T21:00:46.266682+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-14T21:00:46.271681+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-14T21:00:46.275562+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-14T21:00:46.279850+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-14T21:00:46.312400+0400 915315091.py INFO R-squared Score: 0.7952051675604306
+2024-03-14T21:00:46.312400+0400 915315091.py INFO Mean Squared Error: 875.9081557101673
+2024-03-16T15:11:16.348567+0400 abstract_prep.py INFO Successfully imported 'abstract_prep' file
+2024-03-16T15:11:16.348567+0400 check_nans.py INFO Successfully imported 'CheckNans' file
+2024-03-16T15:11:16.348567+0400 log_transformation.py INFO Successfully imported 'LogTransformation' file
+2024-03-16T15:11:16.348567+0400 standardscaling.py INFO Successfully imported 'Scaling' file
+2024-03-16T15:11:16.368864+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-16T15:12:30.814060+0400 check_nans.py INFO CheckNans is starting
+2024-03-16T15:12:30.816608+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-16T15:12:31.426829+0400 standardscaling.py INFO _StandardScaling preprocessing class_ is starting
+2024-03-16T15:12:31.436826+0400 standardscaling.py INFO _StandardScaling preprocessing class_ ended
+2024-03-16T15:12:32.018122+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-16T15:12:32.021665+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-16T15:12:32.023724+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-16T15:12:32.029221+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-16T15:12:52.519528+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-16T15:12:52.523531+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-16T15:12:52.524532+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-16T15:12:52.527530+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-16T15:13:03.082463+0400 check_nans.py INFO CheckNans is starting
+2024-03-16T15:13:03.084462+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-16T15:13:04.749160+0400 standardscaling.py INFO _StandardScaling preprocessing class_ is starting
+2024-03-16T15:13:04.760377+0400 standardscaling.py INFO _StandardScaling preprocessing class_ ended
+2024-03-16T15:13:05.877313+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-16T15:13:05.881831+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-16T15:13:05.882831+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-16T15:13:05.886832+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-16T15:13:16.810346+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 51
+2024-03-16T15:13:16.943720+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 37
+2024-03-16T15:13:17.062022+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 42
+2024-03-16T15:13:30.712990+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-16T15:13:30.725427+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-16T15:13:30.736019+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T18:22:26.601925+0400 abstract_prep.py INFO Successfully imported file
+2024-03-18T18:22:26.605941+0400 check_nans.py INFO Successfully imported file
+2024-03-18T18:22:26.612957+0400 log_transformation.py INFO Successfully imported file
+2024-03-18T18:22:26.629722+0400 standardscaling.py INFO Successfully imported 'Scaling' file
+2024-03-18T18:22:26.652354+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-18T19:45:33.622644+0400 abstract_prep.py INFO Successfully imported file
+2024-03-18T19:45:33.632646+0400 check_nans.py INFO Successfully imported file
+2024-03-18T19:45:33.635658+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-18T20:13:06.236234+0400 abstract_prep.py INFO Successfully imported file
+2024-03-18T20:13:06.236234+0400 check_nans.py INFO Successfully imported file
+2024-03-18T20:13:06.242579+0400 log_transformation.py INFO Successfully imported file
+2024-03-18T20:13:06.242579+0400 standardscaling.py INFO Successfully imported 'Scaling' file
+2024-03-18T20:13:06.252088+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-18T20:13:06.685531+0400 check_nans.py INFO CheckNans is starting
+2024-03-18T20:13:06.685531+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-18T20:13:06.734235+0400 standardscaling.py INFO _StandardScaling preprocessing class_ is starting
+2024-03-18T20:13:06.741386+0400 standardscaling.py INFO _StandardScaling preprocessing class_ ended
+2024-03-18T20:13:06.783467+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-18T20:13:06.790476+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-18T20:13:06.791411+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-18T20:13:06.798555+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-18T20:13:07.459420+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 52
+2024-03-18T20:13:07.776188+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 34
+2024-03-18T20:13:08.072313+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 34
+2024-03-18T20:13:08.292671+0400 pipeline.py INFO Data Preprocessing
+2024-03-18T20:13:08.294181+0400 check_nans.py INFO CheckNans is starting
+2024-03-18T20:13:08.296964+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-18T20:13:08.296964+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is fitting
+2024-03-18T20:13:08.296964+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-18T20:13:08.306543+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-18T20:13:08.310608+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-18T20:13:08.579588+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 36
+2024-03-18T20:13:08.579588+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-18T20:13:08.675690+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:13:09.817636+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:13:30.674190+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:13:30.690620+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:13:30.707679+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:16:11.459187+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:16:11.489339+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:16:11.512121+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:16:16.630880+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:16:16.663478+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:16:16.689297+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:16:52.564891+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:16:52.627766+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:16:52.717972+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:17:04.814687+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:17:04.832527+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:17:04.850385+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:18:13.843717+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:18:13.868112+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-18T20:18:13.898403+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-20T17:51:43.313050+0400 abstract_prep.py INFO Successfully imported file
+2024-03-20T17:51:43.328685+0400 check_nans.py INFO Successfully imported file
+2024-03-20T17:51:43.328685+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-20T17:51:43.529119+0400 check_and_remove_outliers.py INFO Successfully imported 'CheckAndRemoveOutliers' file
+2024-03-20T17:51:49.610371+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T17:51:49.614043+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T17:51:49.618355+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T17:51:50.116905+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 23
+2024-03-20T17:51:50.122535+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T17:51:50.127041+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T17:51:50.130735+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T17:51:50.130735+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:44.659555+0400 abstract_prep.py INFO Successfully imported file
+2024-03-20T18:37:44.659555+0400 check_nans.py INFO Successfully imported file
+2024-03-20T18:37:44.659555+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-20T18:37:44.787951+0400 check_and_remove_outliers.py INFO Successfully imported 'CheckAndRemoveOutliers' file
+2024-03-20T18:37:46.067384+0400 pipeline.py INFO Training the model
+2024-03-20T18:37:46.121944+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-20T18:37:46.134841+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:46.136469+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:46.138527+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:46.442413+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 28
+2024-03-20T18:37:46.442413+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:46.461279+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:46.467440+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:46.471729+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:46.473961+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:46.477160+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:46.478172+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:46.620392+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 7
+2024-03-20T18:37:46.620392+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:46.636442+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:46.636442+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:46.636442+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:46.652337+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-20T18:37:46.652337+0400 pipeline.py INFO Scores: {'MAE': 622.3146320016263, 'MSE': 394196.85801092745, 'RMSE': 627.8509839212865, 'R2': -13388547.78685312, 'MAPE': 7037073053317974.0}
+2024-03-20T18:37:46.652337+0400 pipeline.py INFO Training completed
+2024-03-20T18:37:46.668095+0400 pipeline.py INFO Predicting new data
+2024-03-20T18:37:46.668095+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:46.668095+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:46.668095+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:46.808682+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 9
+2024-03-20T18:37:46.808682+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:46.808682+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:46.808682+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:46.808682+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:46.808682+0400 pipeline.py INFO Scores: {'MAE': 30.696147953003415, 'MSE': 1418.0463731514153, 'RMSE': 37.65695650409649, 'R2': 0.8044177618043387, 'MAPE': 0.0534272494734872}
+2024-03-20T18:37:46.824316+0400 pipeline.py INFO Training the model
+2024-03-20T18:37:46.824316+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-20T18:37:46.824316+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:46.824316+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:46.839926+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:46.965322+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 28
+2024-03-20T18:37:46.965322+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:46.965322+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:46.977215+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:46.979202+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:46.981269+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:46.981269+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:46.981269+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:47.090688+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 7
+2024-03-20T18:37:47.090688+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:47.106313+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:47.106313+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:47.106313+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:47.106313+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-20T18:37:47.122424+0400 pipeline.py INFO Scores: {'MAE': 622.4952439125706, 'MSE': 394298.2598053796, 'RMSE': 627.9317318032109, 'R2': -13391991.809413185, 'MAPE': 7226984756489636.0}
+2024-03-20T18:37:47.122424+0400 pipeline.py INFO Training completed
+2024-03-20T18:37:47.122424+0400 pipeline.py INFO Predicting new data
+2024-03-20T18:37:47.122424+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:47.122424+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:47.122424+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:47.248428+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 9
+2024-03-20T18:37:47.248428+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:47.248428+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:47.248428+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:47.248428+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:47.264045+0400 pipeline.py INFO Scores: {'MAE': 31.097158483624547, 'MSE': 1435.174617238561, 'RMSE': 37.8836985686266, 'R2': 0.8020553705748609, 'MAPE': 0.05400922277347279}
+2024-03-20T18:37:47.264045+0400 pipeline.py INFO Training the model
+2024-03-20T18:37:47.264045+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-20T18:37:47.264045+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:47.278720+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:47.278720+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:47.468402+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 28
+2024-03-20T18:37:47.471457+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:47.473433+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:47.485129+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:47.486185+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:47.489697+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:47.499213+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:47.502687+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:47.752607+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 7
+2024-03-20T18:37:47.755586+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:47.756860+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:47.768637+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:47.769637+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:47.787731+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-20T18:37:47.794732+0400 pipeline.py INFO Scores: {'MAE': 624.5117073493715, 'MSE': 396371.55910103844, 'RMSE': 629.5804627694846, 'R2': -13462409.592319276, 'MAPE': 7686832997692379.0}
+2024-03-20T18:37:47.796070+0400 pipeline.py INFO Training completed
+2024-03-20T18:37:47.796070+0400 pipeline.py INFO Predicting new data
+2024-03-20T18:37:47.796070+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:47.796070+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:47.814232+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:48.187957+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 9
+2024-03-20T18:37:48.191770+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:48.202915+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:48.207694+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:48.216686+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:48.227677+0400 pipeline.py INFO Scores: {'MAE': 29.954547203155677, 'MSE': 1369.6358918457927, 'RMSE': 37.008592135418944, 'R2': 0.8110947157214669, 'MAPE': 0.05211504272302411}
+2024-03-20T18:37:48.230420+0400 pipeline.py INFO Training the model
+2024-03-20T18:37:48.234579+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-20T18:37:48.254677+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:48.256501+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:48.263415+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:48.790294+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 28
+2024-03-20T18:37:48.790830+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:48.800210+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:48.808358+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:48.814056+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:48.817058+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:48.819058+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:48.824354+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:49.108894+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 7
+2024-03-20T18:37:49.111784+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:49.111784+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:49.111784+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:49.111784+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:49.529988+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-20T18:37:49.542051+0400 pipeline.py INFO Scores: {'MAE': 626.9759160756598, 'MSE': 397786.6143855464, 'RMSE': 630.7032696803992, 'R2': -13510470.697647022, 'MAPE': 9955277819953744.0}
+2024-03-20T18:37:49.543041+0400 pipeline.py INFO Training completed
+2024-03-20T18:37:49.550847+0400 pipeline.py INFO Predicting new data
+2024-03-20T18:37:49.550847+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:49.550847+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:49.565359+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:49.728694+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 9
+2024-03-20T18:37:49.728694+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:49.728694+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:49.728694+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:49.728694+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:49.745591+0400 pipeline.py INFO Scores: {'MAE': 48.50230869590401, 'MSE': 3945.1817442864776, 'RMSE': 62.81068176899911, 'R2': 0.4558658375033109, 'MAPE': 0.09066043939507978}
+2024-03-20T18:37:55.190142+0400 pipeline.py INFO Training the model
+2024-03-20T18:37:55.201472+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-20T18:37:55.208734+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:55.209735+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:55.211737+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:55.314148+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 28
+2024-03-20T18:37:55.314148+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:55.329592+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:55.329592+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:55.329592+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:37:55.329592+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:37:55.329592+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:37:55.329592+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:37:55.429788+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 7
+2024-03-20T18:37:55.429788+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:55.429788+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:37:55.429788+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:37:55.429788+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:38:07.737026+0400 pipeline.py INFO Training the model
+2024-03-20T18:38:07.744221+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ fitting ended
+2024-03-20T18:38:07.750692+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:38:07.751864+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:38:07.753251+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:38:07.984426+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 28
+2024-03-20T18:38:07.984426+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:38:08.001148+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:38:08.001148+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:38:08.001148+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:38:08.001148+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:38:08.001148+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:38:08.001148+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:38:08.117801+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 7
+2024-03-20T18:38:08.117801+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:38:08.117801+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:38:08.117801+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:38:08.117801+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:38:08.117801+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-20T18:38:08.134503+0400 pipeline.py INFO Scores: {'MAE': 624.5117073493715, 'MSE': 396371.55910103844, 'RMSE': 629.5804627694846, 'R2': -13462409.592319276, 'MAPE': 7686832997692379.0}
+2024-03-20T18:38:08.134503+0400 pipeline.py INFO Training completed
+2024-03-20T18:38:08.134503+0400 pipeline.py INFO Predicting new data
+2024-03-20T18:38:08.134503+0400 pipeline.py INFO Data Preprocessing
+2024-03-20T18:38:08.134503+0400 check_nans.py INFO CheckNans is starting
+2024-03-20T18:38:08.134503+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-20T18:38:08.234508+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 9
+2024-03-20T18:38:08.234508+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:38:08.234508+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-20T18:38:08.234508+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-20T18:38:08.234508+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-20T18:38:08.251801+0400 pipeline.py INFO Scores: {'MAE': 29.954547203155677, 'MSE': 1369.6358918457927, 'RMSE': 37.008592135418944, 'R2': 0.8110947157214669, 'MAPE': 0.05211504272302411}
+2024-03-20T18:47:33.750747+0400 abstract_prep.py INFO Successfully imported file
+2024-03-20T18:47:33.752200+0400 check_nans.py INFO Successfully imported file
+2024-03-20T18:47:33.754584+0400 log_transformation.py INFO Successfully imported file
+2024-03-20T18:47:33.759651+0400 standardscaling.py INFO Successfully imported 'StandardScaling' file
+2024-03-20T18:47:33.759651+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-20T18:47:33.857468+0400 check_and_remove_outliers.py INFO Successfully imported 'CheckAndRemoveOutliers' file
+2024-03-28T21:17:48.640107+0400 abstract_prep.py INFO Successfully imported file
+2024-03-28T21:17:48.643491+0400 check_nans.py INFO Successfully imported file
+2024-03-28T21:17:48.648522+0400 log_transformation.py INFO Successfully imported file
+2024-03-28T21:17:48.657068+0400 standardscaling.py INFO Successfully imported 'StandardScaling' file
+2024-03-28T21:17:48.667067+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-28T21:17:49.077494+0400 check_and_remove_outliers.py INFO Successfully imported 'CheckAndRemoveOutliers' file
+2024-03-28T21:18:49.046709+0400 check_nans.py INFO CheckNans is starting
+2024-03-28T21:18:49.050745+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-28T21:19:59.497295+0400 standardscaling.py INFO _StandardScaling preprocessing class_ is starting
+2024-03-28T21:19:59.512318+0400 standardscaling.py INFO _StandardScaling preprocessing class_ ended
+2024-03-28T21:20:31.804743+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-28T21:20:31.812120+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-28T21:20:31.819121+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-28T21:23:30.156484+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 56
+2024-03-28T21:23:30.348078+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 39
+2024-03-28T21:23:30.561270+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-28T21:24:55.757396+0400 pipeline.py INFO Data Preprocessing
+2024-03-28T21:24:55.759397+0400 check_nans.py INFO CheckNans is starting
+2024-03-28T21:24:55.761396+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-28T21:24:55.966981+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-28T21:24:55.969986+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-28T21:24:55.972987+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-28T21:24:55.975982+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-28T21:24:55.977981+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-28T21:25:20.395125+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-28T21:26:12.716815+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-28T21:26:20.795699+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-28T21:26:20.809698+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-28T21:26:20.824932+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-28T21:28:01.348639+0400 abstract_prep.py INFO Successfully imported file
+2024-03-28T21:28:01.349640+0400 check_nans.py INFO Successfully imported file
+2024-03-28T21:28:01.355641+0400 log_transformation.py INFO Successfully imported file
+2024-03-28T21:28:01.357650+0400 standardscaling.py INFO Successfully imported 'StandardScaling' file
+2024-03-28T21:28:01.359643+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-28T21:28:01.452732+0400 check_and_remove_outliers.py INFO Successfully imported 'CheckAndRemoveOutliers' file
+2024-03-28T21:28:03.167307+0400 check_nans.py INFO CheckNans is starting
+2024-03-28T21:28:03.170312+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-28T21:28:03.606467+0400 standardscaling.py INFO _StandardScaling preprocessing class_ is starting
+2024-03-28T21:28:03.615473+0400 standardscaling.py INFO _StandardScaling preprocessing class_ ended
+2024-03-28T21:28:03.849805+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-28T21:28:03.854804+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-28T21:28:03.859805+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-28T21:28:06.877464+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 56
+2024-03-28T21:28:07.103758+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 39
+2024-03-28T21:28:07.315991+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-28T21:28:15.040971+0400 pipeline.py INFO Data Preprocessing
+2024-03-28T21:28:15.043675+0400 check_nans.py INFO CheckNans is starting
+2024-03-28T21:28:15.045752+0400 check_nans.py INFO No NaNs in dataframe
+2024-03-28T21:28:15.317799+0400 check_and_remove_outliers.py INFO Number of outliers in dataframe: 41
+2024-03-28T21:28:15.319801+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-28T21:28:15.322805+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ is starting transformation
+2024-03-28T21:28:15.330822+0400 minmax_scaler.py INFO _MinMaxScaler preprocessing class_ transformation ended
+2024-03-28T21:28:15.332800+0400 pipeline.py INFO Data Preprocessing completed
+2024-03-28T21:28:19.544518+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-28T21:28:23.916649+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-28T21:28:24.459706+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-28T21:28:24.476879+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-28T21:28:24.491399+0400 abstract_model.py INFO Model was trained successfully: status:True
+2024-03-28T21:29:31.176031+0400 abstract_prep.py INFO Successfully imported file
+2024-03-28T21:29:31.177033+0400 minmax_scaler.py INFO Successfully imported 'MinMaxScaler' file
+2024-03-28T21:29:31.293525+0400 check_nans.py INFO Successfully imported file
+2024-03-28T21:29:31.294755+0400 check_and_remove_outliers.py INFO Successfully imported 'CheckAndRemoveOutliers' file

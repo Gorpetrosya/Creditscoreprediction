@@ -1,0 +1,27 @@
+2024-03-06T15:08:51.456833+0400 abstract_model.py ERROR First is not trained yet
+2024-03-06T15:09:02.004820+0400 abstract_model.py ERROR First Ridge Model is not trained yet
+2024-03-06T15:09:10.474246+0400 abstract_model.py ERROR First Lasso Model is not trained yet
+2024-03-10T22:30:20.154332+0400 abstract_model.py ERROR Linreg is not trained yet
+2024-03-11T18:42:46.132403+0400 abstract_model.py ERROR Linreg is not trained yet
+2024-03-20T17:51:50.122535+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:46.442413+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:46.620392+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:46.808682+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:46.965322+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:47.090688+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:47.248428+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:47.471457+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:47.755586+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:48.191770+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:48.790830+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:49.111784+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:49.728694+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:55.314148+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:37:55.429788+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:38:07.984426+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:38:08.117801+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-20T18:38:08.234508+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-28T21:20:31.804743+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-28T21:24:55.969986+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-28T21:28:03.849805+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
+2024-03-28T21:28:15.319801+0400 minmax_scaler.py ERROR _MinMaxScaler preprocessing class_ is not fitted yet. Please call 'fit' with training data before transforming.
